@@ -1,0 +1,22 @@
+[
+    {
+        "front": "2 + 2",
+        "back": "4",
+        "order": 0
+    },
+    {
+        "front": "3 + 5",
+        "back": "8",
+        "order": 0
+    },
+    {
+        "front": "4²",
+        "back": "16",
+        "order": 0
+    },
+    {
+        "front": "5²",
+        "back": "",
+        "order": 0
+    }
+]

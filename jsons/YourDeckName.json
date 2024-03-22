@@ -1,0 +1,22 @@
+[
+    {
+        "front": "Hello, World!",
+        "back": "Olá, mundo!",
+        "order": 0
+    },
+    {
+        "front": "Olá, mundo!",
+        "back": "Hello, World!",
+        "order": 0
+    },
+    {
+        "front": "Olá, World!",
+        "back": "Hello, mundo!",
+        "order": 0
+    },
+    {
+        "front": "Hello, Mundo!",
+        "back": "Olá, World!",
+        "order": 0
+    }
+]
